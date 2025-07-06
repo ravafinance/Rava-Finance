@@ -1,4 +1,4 @@
-# RavaFinance 🚀
+# Rava Finance 🌱
 
 **Decentralized Token Factory & Liquidity Management Protocol**
 
