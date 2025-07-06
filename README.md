@@ -81,12 +81,6 @@ SWAP_ROUTER = 0x68b3465833fb72A70ecDF485E0e4C7bD8665Fc45
 4. **Enable Trading**: Token immediately tradeable on Uniswap
 5. **Fee Collection**: Automated fee collection and distribution
 
-## 🔒 Security Features
-
-- **ReentrancyGuard**: Protection against reentrancy attacks
-- **Access Control**: Owner-only functions for critical operations
-- **Input Validation**: Strict validation for fee tiers and parameters
-- **Dead Address Burning**: Token fees automatically burned to dead address
 
 ## 🌐 Links
 
